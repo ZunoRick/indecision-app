@@ -1,4 +1,4 @@
-import { sleep } from '@/helpesr/sleep';
+import { sleep } from '@/helpers/sleep';
 import type { ChatMessage } from '@/interfaces/chat-message.interface';
 import type { YesNoResponse } from '@/interfaces/yes-no.response';
 import { ref } from 'vue';
